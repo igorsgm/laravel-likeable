@@ -27,10 +27,8 @@ Laravel Likeable simplify management of Eloquent model's likes & dislikes. Make 
 - [Change log](#change-log)
 - [Contributing](#contributing)
 - [Testing](#testing)
-- [Security](#security)
 - [Alternatives](#alternatives)
 - [License](#license)
-- [About CyberIgorsgm](#about-cybercog)
 
 ## Features
 
@@ -54,7 +52,7 @@ Laravel Likeable simplify management of Eloquent model's likes & dislikes. Make 
 First, pull in the package through Composer.
 
 ```sh
-$ composer require cybercog/laravel-likeable
+composer require igorsgm/laravel-likeable
 ```
 
 **If you are using Laravel 5.5 you can skip register package part.** 
@@ -409,10 +407,6 @@ You can run the tests with:
 ```sh
 $ vendor/bin/phpunit
 ```
-
-## Security
-
-If you discover any security related issues, please email open@cybercog.su instead of using the issue tracker.
 
 ## License
 
