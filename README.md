@@ -2,13 +2,6 @@
 
 ![cog-laravel-likeable](https://user-images.githubusercontent.com/1849174/28696355-c4a06a96-733d-11e7-8cc5-af5d60bf5e20.png)
 
-<p align="center">
-<a href="https://travis-ci.org/cybercog/laravel-likeable"><img src="https://img.shields.io/travis/cybercog/laravel-likeable/master.svg?style=flat-square" alt="Build Status"></a>
-<a href="https://styleci.io/repos/67549571"><img src="https://styleci.io/repos/67549571/shield" alt="StyleCI"></a>
-<a href="https://github.com/cybercog/laravel-likeable/releases"><img src="https://img.shields.io/github/release/cybercog/laravel-likeable.svg?style=flat-square" alt="Releases"></a>
-<a href="https://github.com/cybercog/laravel-likeable/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cybercog/laravel-likeable.svg?style=flat-square" alt="License"></a>
-</p>
-
 ## Attention
 
 **This package is abandoned and no longer maintained. 
@@ -35,7 +28,6 @@ Laravel Likeable simplify management of Eloquent model's likes & dislikes. Make 
 - [Contributing](#contributing)
 - [Testing](#testing)
 - [Security](#security)
-- [Contributors](#contributors)
 - [Alternatives](#alternatives)
 - [License](#license)
 - [About CyberIgorsgm](#about-cybercog)
@@ -422,34 +414,8 @@ $ vendor/bin/phpunit
 
 If you discover any security related issues, please email open@cybercog.su instead of using the issue tracker.
 
-## Contributors
-
-| <a href="https://github.com/antonkomarev">![@antonkomarev](https://avatars.githubusercontent.com/u/1849174?s=110)<br />Anton Komarev</a> | <a href="https://github.com/acidjazz">![@acidjazz](https://avatars.githubusercontent.com/u/967369?s=110)<br />Kevin Olson</a> |  
-| :---: | :---: |
-
-[Laravel Likeable contributors list](../../contributors)
-
-## Alternatives
-
-- [cybercog/laravel-love](https://github.com/cybercog/laravel-love)
-- [rtconner/laravel-likeable](https://github.com/rtconner/laravel-likeable)
-- [faustbrian/laravel-likeable](https://github.com/faustbrian/Laravel-Likeable)
-- [sukohi/evaluation](https://github.com/SUKOHI/Evaluation)
-- [zvermafia/lavoter](https://github.com/zvermafia/lavoter)
-
-*Feel free to add more alternatives as Pull Request.*
-
 ## License
 
 - `Laravel Likeable` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev].
-
-## About CyberIgorsgm
-
-[CyberIgorsgm](https://cybercog.su) is a Social Unity of enthusiasts. Research best solutions in product & software development is our passion.
-
-- [Follow us on Twitter](https://twitter.com/cybercog)
-- [Read our articles on Medium](https://medium.com/cybercog)
-
-<a href="https://cybercog.su"><img src="https://cloud.githubusercontent.com/assets/1849174/18418932/e9edb390-7860-11e6-8a43-aa3fad524664.png" alt="CyberIgorsgm"></a>
 
 [Anton Komarev]: https://komarev.com
